@@ -1,2 +1,2 @@
-# styling-kalkulator
+# Membuat-kalkulator-with-JavaScript
 Created with CodeSandbox
